@@ -1,0 +1,19 @@
+{
+  "name": "private-lowcode-ide",
+  "version": "0.1.0",
+  "description": "个人自建 LowcodeIDE，验证想法用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xeonice/private-lowcode-ide.git"
+  },
+  "author": "douglasdong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xeonice/private-lowcode-ide/issues"
+  },
+  "homepage": "https://github.com/Xeonice/private-lowcode-ide#readme"
+}
